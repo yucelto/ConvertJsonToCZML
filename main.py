@@ -29,7 +29,7 @@ def geojson_to_czml(input_geojson_path):
         if 'model' in feature['properties']:
             czml_feature['model'] = {
                 'gltf': feature['properties']['model'],
-                'scale': 1.0,  # Modelin gerçek boyutlarını korumak için 1.0 kullanıyoruz
+                'scale': 1.0,
                 'disableDepthTestDistance': "NaN",
                 'distanceDisplayCondition': {
                 'distanceDisplayCondition': [
@@ -41,7 +41,6 @@ def geojson_to_czml(input_geojson_path):
 
         czml_output.append(czml_feature)
 
-    # Output dosyasının adını oluştur
     output_czml_path = os.path.splitext(input_geojson_path)[0] + '_output.czml'
 
     with open(output_czml_path, 'w') as czml_file:
