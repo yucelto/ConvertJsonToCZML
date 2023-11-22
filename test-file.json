@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "test-new",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 964508, "height": 1 }, "geometry": { "type": "Point", "coordinates": [ 29.047527848009935, 41.085781247383757 ] } },
+{ "type": "Feature", "properties": { "Id": 964509, "height": 5 }, "geometry": { "type": "Point", "coordinates": [ 29.047376192297662, 41.085887308420347 ] } },
+{ "type": "Feature", "properties": { "Id": 964512, "height": 10 }, "geometry": { "type": "Point", "coordinates": [ 29.047840974697262, 41.085860188445842 ] } },
+{ "type": "Feature", "properties": { "Id": 964513, "height": 15 }, "geometry": { "type": "Point", "coordinates": [ 29.047702736510779, 41.085798341641677 ] } },
+{ "type": "Feature", "properties": { "Id": 964603, "height": 20 }, "geometry": { "type": "Point", "coordinates": [ 29.04739247153212, 41.085724337718879 ] } },
+{ "type": "Feature", "properties": { "Id": 12, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048463778703027, 41.086896077343589 ] } },
+{ "type": "Feature", "properties": { "Id": 13, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048672445715827, 41.08692385845476 ] } },
+{ "type": "Feature", "properties": { "Id": 14, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048802090901294, 41.087022481399416 ] } },
+{ "type": "Feature", "properties": { "Id": 15, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048853331617444, 41.087167560535541 ] } },
+{ "type": "Feature", "properties": { "Id": 16, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048808264481547, 41.087272511399959 ] } },
+{ "type": "Feature", "properties": { "Id": 17, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048713191345538, 41.087342890214927 ] } },
+{ "type": "Feature", "properties": { "Id": 18, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.04857181635758, 41.087330543054406 ] } },
+{ "type": "Feature", "properties": { "Id": 18, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/scifi_street_lamb.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048526749221679, 41.087141014140421 ] } },
+{ "type": "Feature", "properties": { "Id": 22, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048512549987084, 41.086929260337492 ] } },
+{ "type": "Feature", "properties": { "Id": 23, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048612561987298, 41.086948398436299 ] } },
+{ "type": "Feature", "properties": { "Id": 24, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048677384580031, 41.086975562189444 ] } },
+{ "type": "Feature", "properties": { "Id": 25, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048759493197494, 41.0870385327081 ] } },
+{ "type": "Feature", "properties": { "Id": 26, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048801473543261, 41.087159534881202 ] } },
+{ "type": "Feature", "properties": { "Id": 27, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048774927148145, 41.087246582362866 ] } },
+{ "type": "Feature", "properties": { "Id": 28, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048700844185021, 41.087305231375339 ] } },
+{ "type": "Feature", "properties": { "Id": 29, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048595275962569, 41.087294736288897 ] } },
+{ "type": "Feature", "properties": { "Id": 30, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048582928802048, 41.087234852560371 ] } },
+{ "type": "Feature", "properties": { "Id": 31, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048563790703241, 41.087151509226864 ] } },
+{ "type": "Feature", "properties": { "Id": 32, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048546504678516, 41.087065079103219 ] } },
+{ "type": "Feature", "properties": { "Id": 33, "height": 1, "model": "https://raw.githubusercontent.com/yucelto/3D-Models/main/this_tree_is_growing.glb" }, "geometry": { "type": "Point", "coordinates": [ 29.048528601295761, 41.086990378782069 ] } }
+]
+}
